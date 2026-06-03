@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# Archivos compilados de Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de entorno/secretos (¡Nunca los subas!)
+.env
+.env.local
+
+# Carpetas de editores de código
+.vscode/
+.idea/
+.DS_Store
